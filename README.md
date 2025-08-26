@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marouane Elmozariahi
+## 👋 Hi, I'm Marouane Elmozariahi
 
 🎓 **` 3rd-year Computer Science Engineering Student at ENSAT  `**
 
