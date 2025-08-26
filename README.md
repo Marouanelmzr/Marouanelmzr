@@ -11,7 +11,7 @@ I enjoy working on:
 
 I believe every project is a story waiting to be told—through **clean code, thoughtful design, and impactful user experiences**.
 
----
+#
 
 ### 💻 Code & Frameworks
 <p>
@@ -33,7 +33,7 @@ I believe every project is a story waiting to be told—through **clean code, th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40" style="margin: 10px;"/>
 </p>
 
----
+#
 
 ### 📫 Connect with Me
 
