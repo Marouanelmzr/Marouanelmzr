@@ -33,9 +33,6 @@ I believe every project is a story waiting to be told—through **clean code, th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cinema4d/cinema4d-original.svg" alt="Cinema 4D" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://your-image-link.com/zbrush.png" alt="ZBrush" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://your-image-link.com/substancepainter.png" alt="Substance Painter" width="40" height="40" style="margin: 10px;"/>
 </p>
 
 
