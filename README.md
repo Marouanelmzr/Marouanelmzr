@@ -13,7 +13,7 @@ I believe every project is a story waiting to be told—through **clean code, th
 
 ---
 
-## 💻 Code & Frameworks
+### 💻 Code & Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 10px;"/>
@@ -25,9 +25,7 @@ I believe every project is a story waiting to be told—through **clean code, th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin: 10px;"/>
 </p>
 
----
-
-## 🎨 Design Tools
+### 🎨 Design Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40" style="margin: 10px;"/>
@@ -35,6 +33,7 @@ I believe every project is a story waiting to be told—through **clean code, th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40" style="margin: 10px;"/>
 </p>
 
+---
 
 ### 📫 Connect with Me
 
