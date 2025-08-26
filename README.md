@@ -37,7 +37,7 @@ I believe every project is a story waiting to be told—through **clean code, th
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/marouane-elmozariahi](#)
+- **LinkedIn:** [linkedin.com/in/marouane-elmozariahi-29a105246](#)
 - **Portfolio:** [soon](#)
 - **Email:** elmozariahimarouane05@gmail.com  
 
