@@ -9,7 +9,7 @@ I enjoy working on:
 - **Application Development**
 - **Graphic Design & 3D Modeling**
 
-I believe every project is a story waiting to be told—through **clean code, thoughtful design, and impactful user experiences**.
+I believe every project is a story waiting to be told through **clean code, thoughtful design, and impactful user experiences**.
 
 #
 
@@ -41,5 +41,5 @@ I believe every project is a story waiting to be told—through **clean code, th
 - **Portfolio:** [soon](#)
 - **Email:** elmozariahimarouane05@gmail.com  
 
-⭐ **“I don’t just write code—I create solutions that tell a story.”**
+⭐ **“I don’t just write code, I create solutions that tell a story.”**
 
